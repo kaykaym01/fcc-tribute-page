@@ -4,3 +4,13 @@ body {
     font-family: Helvetica;
     color: #383636;
   }
+
+#img-div {
+  text-align: center;
+  padding: 10px;
+}
+
+#image {
+    margin: auto;
+    max-width: 75%;
+}
