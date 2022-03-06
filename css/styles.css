@@ -18,3 +18,17 @@ body {
 #title {
     text-align: center;
 }
+
+#timeline {
+    margin:auto;
+    max-width: 75%;
+}
+
+
+#timeline h3 {
+    text-align: center;
+}
+
+#timeline li{
+    padding-bottom: 10px;
+}
