@@ -31,3 +31,10 @@ body {
 #timeline li{
     padding-bottom: 10px;
 }
+
+#tribute-link-div {
+    text-align: center;
+    font-size:18px;
+    font-weight:600;
+    color: #383636;
+}
